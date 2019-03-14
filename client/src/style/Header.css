@@ -1,0 +1,31 @@
+.App-header {
+    background-color: #0084ff;
+  }
+  .App-menu {
+    animation: App-logo-spin infinite 20s linear;
+    height: 4vmin;
+  }
+
+  .Text-header{
+    margin-left: 3%;
+    min-height: 6vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .icon-header {
+    background-color: #0084ff;
+    min-height: 6vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+  }
+
+  .align-right {
+    margin-right: 3%;
+  }
